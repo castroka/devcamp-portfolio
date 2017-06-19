@@ -1,6 +1,6 @@
 # Devcamp Portfolio Application
 
-Some content
+> This is a Ruby on Rails 5 applicaton that allow users to create their own portfolios.
 
 ### Features
 
@@ -13,7 +13,7 @@ Some content
 
 ```ruby
 def my_great_method
-  puts "here its is"
+  puts "here it is"
 end
 ```
 
