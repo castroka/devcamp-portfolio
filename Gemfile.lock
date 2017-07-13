@@ -1,3 +1,9 @@
+GIT
+  remote: https://github.com/castroka/castro_view_tool
+  revision: 930ca6b87c477b320129495ba2a7b516b67090eb
+  specs:
+    castro_view_tool (0.1.0)
+
 GEM
   remote: https://rubygems.org/
   specs:
@@ -185,6 +191,7 @@ PLATFORMS
 DEPENDENCIES
   bootstrap (~> 4.0.0.alpha6)
   byebug
+  castro_view_tool!
   coffee-rails (~> 4.2)
   devise (~> 4.3)
   friendly_id (~> 5.1.0)
