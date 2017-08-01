@@ -59,7 +59,6 @@ gem 'bootstrap', '~> 4.0.0.alpha6'
 
 gem 'castro_view_tool', '~> 0.1.0'
 gem 'petergate', '~> 1.7', '>= 1.7.5'
-
 gem 'font-awesome-rails', '~> 4.7', '>= 4.7.0.2'
 gem 'kaminari', '~> 1.0', '>= 1.0.1'
 gem 'jquery-ui-rails', '~> 6.0', '>= 6.0.1'
@@ -67,3 +66,4 @@ gem 'carrierwave', '~> 1.1'
 gem 'mini_magick', '~> 4.8'
 gem 'carrierwave-aws', '~> 1.2'
 gem 'dotenv-rails', '~> 2.2', '>= 2.2.1'
+gem 'cocoon', '~> 1.2', '>= 1.2.10'
