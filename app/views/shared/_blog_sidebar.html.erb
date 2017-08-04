@@ -4,6 +4,14 @@
     <p>A student at the Two Rivers campus taking the Code to Success program. 
     I want to be an astrophysicist or a competer programmer/designer.</p>
   </div>
+  
+  <div class="sidebar-module">
+    <h4>Topics</h4>
+    <% @side_bar_topics.each do |topic| %>
+      <p><%= link_to topic.title, topic_path(topic) %></p>  
+    <% end %>
+  </div>
+  
 
   <div class="sidebar-module">
     <h4>Elsewhere</h4>
